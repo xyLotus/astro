@@ -13,6 +13,7 @@ The compiler is written in Python and the bytecode interpreter is written in C++
 <br>
 We designed the bytecode interpreter in C++ because of expected speed of execution time and the compiler in Python because speed is, while still important, not the most important aspect in compilation. Once a program is compiled it can always be executed in fast manner without much time being lost.
 <br>
+<br>
 
 <h2>About Us</h2>
 We are a small team of developers, currently only consisting of 2 people.
