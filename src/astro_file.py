@@ -19,4 +19,4 @@ class AstroFile:
     def _cleanup(self) -> None:
         """ removes unessecary characters with RegEx from source file
         for tokenization (ready-up), overwrites @member content """
-        pass
+        pass # TODO => Complete function with RegEx (remove comments)

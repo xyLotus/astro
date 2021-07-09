@@ -31,4 +31,4 @@ class TokenCompressor:
         """ Main functionality in this function,
         compresses all whitelisted tokens (@member whitelist)
         for syntax-checking post-compression // lexing-tree. """
-        pass
+        pass # TODO => Finish compression with RegEx
