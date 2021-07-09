@@ -1,3 +1,10 @@
+""" The file where the AstroFile class gets stored,
+which gets used as a file handle for basic operations
+in context to the Astro compilation progress.  """
+
+__author__ = 'xyLotus'
+__version__ = '0.0.5'
+
 class AstroFile:
     """ Class that represents a astro file
     it __repr__'s the given file's @member file_name

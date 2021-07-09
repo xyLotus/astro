@@ -4,6 +4,8 @@ class is stored. """
 from astro_file import AstroFile
 from astro_types import Token
 
+__author__ = 'xyLotus'
+__version__ = '0.1.0' # sub-release [10% finished]
 
 class Tokenizer:
     """ This class tokenizes the given files

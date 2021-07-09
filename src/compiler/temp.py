@@ -1,6 +1,7 @@
 import functools
-import inspect
 
+__author__ = 'xyLotus'
+__version__ = 'STASIS'
 
 class TypeSpecError(Exception):
     """ The error of the typespec function wrapper

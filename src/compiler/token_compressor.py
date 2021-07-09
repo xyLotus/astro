@@ -3,6 +3,8 @@ class is stored. """
 
 from tokenizer import Tokenizer
 
+__author__ = 'xyLotus'
+__version__ = '0.0.5'
 
 class TokenCompressor:
     """ The class the compresses tokens into

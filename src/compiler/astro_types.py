@@ -1,5 +1,8 @@
 """ The file where all astro types get defined. """
 
+__author__ = 'xyLotus'
+__version__ = 'STASIS'
+
 class Token:
     """ Struct- /C-like class where
     token_value to the corresponding
