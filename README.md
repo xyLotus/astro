@@ -22,6 +22,6 @@ We are always open for new contributors.
 <br>
 <br>
 
-BDFL: @xyLotus
+BDFL: xyLotus
 <br>
-Contributor: @Bellrise
+Contributor: Bellrise
