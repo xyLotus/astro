@@ -1,3 +1,5 @@
+<!-- START -->
+
 <h1 align="center">Astro</h1>
 <p align="center">Astro is a dynamic-written programming language programmed in Python and C++</p>
 
@@ -22,6 +24,9 @@ We are always open for new contributors.
 <br>
 <br>
 
+<!-- Team -->
 BDFL: xyLotus
 <br>
 Contributor: Bellrise
+
+<!-- END -->
