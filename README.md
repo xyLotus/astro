@@ -1,7 +1,7 @@
 <!-- START -->
 
 <h1 align="center">Astro</h1>
-<p align="center">Astro is a dynamic-written programming language programmed in Python and C++</p>
+<p align="center">Astro is a dynamically typed programming language programmed in Python and C++</p>
 
 <h2>About Astro</h2>
 Astro is designed for fast-paced and efficient code writing, thus being guaranteed by simplicity and easy-to-learn syntax.
