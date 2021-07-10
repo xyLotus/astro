@@ -5,7 +5,7 @@
 
 <!-- Stickers -->
 <div align="center">
-    <image src="https://img.shields.io/tokei/lines/github/xyLotus/Astro/?label=Total%20lines&style=flat-square">
+    <image src="https://img.shields.io/tokei/lines/github/xyLotus/Astro?label=Total%20lines&style=flat-square">
 </div>
 
 <h2>About Astro</h2>
