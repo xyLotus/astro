@@ -5,7 +5,6 @@
 <!-- Stickers -->
 <div align="center">
   <image src="https://img.shields.io/badge/Implementation-Python%203.9-%2300A3E0?style=flat-square">
-  <image src="https://img.shields.io/tokei/lines/xyLotus/Astro/tree/master/src/compiler?label=Total%20lines&style=flat-square">
 </div>
 
 <!-- Short Description -->
