@@ -3,6 +3,11 @@
 <h1 align="center">Astro</h1>
 <p align="center">Astro is a dynamically typed programming language programmed in Python and C++</p>
 
+<!-- Stickers -->
+<div align="center">
+    <image src="https://img.shields.io/tokei/lines/xyLotus/Astro/label=Total%20lines&style=flat-square">
+</div>
+
 <h2>About Astro</h2>
 Astro is designed for fast-paced and efficient code writing, thus being guaranteed by simplicity and easy-to-learn syntax.
 <br>
