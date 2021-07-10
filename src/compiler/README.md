@@ -15,8 +15,8 @@
   <li>File handle establishment</li>
   <li>Tokenization by accesing file handle</li>
   <li>Token compression of raw tokens</li>
-  <li>Lexing tree contextualisation with compressed tokens</li>
-  <li>Conversion to bytecode in specific bytecode format</li>
+  <li>Compressed token contextualisation in lexing tree</li>
+  <li>Conversion to bytecode in specific bytecode format based on tokens</li>
 </ul>
 
 <!-- END -->
